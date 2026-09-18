@@ -28,3 +28,5 @@ Task fifteen
 script that copies all HTML files from the current directory to the parent directory, only overwriting files that don't exist there or are older
 Task sixteen
 script that moves all files beginning with an uppercase letter to /tmp/u
+Task seventeen
+script that deletes all files in the current working directory that end with the character ~

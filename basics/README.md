@@ -22,3 +22,5 @@ Task eleven
 script that changes the working directory to the previous one
 Task twelve
 script that lists all files, including hidden ones, in long format, for the current directory, the parent directory, and /boot, in that order
+Task fourteen
+script that creates a symbolic link to /bin/ls, named __ls__, in the current working directory

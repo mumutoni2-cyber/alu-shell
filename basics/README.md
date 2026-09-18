@@ -6,3 +6,5 @@ Task three
 script that changes the working directory to the user's home directory
 Task four
 Display current directory contents in a long format
+Task five
+script that displays current directory contents, including hidden files, in long format

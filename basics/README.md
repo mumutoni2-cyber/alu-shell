@@ -20,3 +20,5 @@ Task ten
 script that deletes the directory my_first_directory located in /tmp
 Task eleven
 script that changes the working directory to the previous one
+Task twelve
+script that lists all files, including hidden ones, in long format, for the current directory, the parent directory, and /boot, in that order

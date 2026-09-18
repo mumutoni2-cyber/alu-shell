@@ -16,3 +16,5 @@ Task eight
 script that moves the file betty from /tmp/ to /tmp/my_first_directory
 Task nine
 script that deletes the file betty located in /tmp/my_first_directory
+Task ten
+script that deletes the directory my_first_directory located in /tmp

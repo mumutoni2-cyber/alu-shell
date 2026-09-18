@@ -12,3 +12,5 @@ Task six
 script that displays current directory contents, including hidden files, in long format, with user and group IDs shown numerically
 Task seven
 script that creates a directory named my_first_directory in the /tmp/ directory
+Task eight
+script that moves the file betty from /tmp/ to /tmp/my_first_directory

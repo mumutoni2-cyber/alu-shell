@@ -26,3 +26,5 @@ Task fourteen
 script that creates a symbolic link to /bin/ls, named __ls__, in the current working directory
 Task fifteen
 script that copies all HTML files from the current directory to the parent directory, only overwriting files that don't exist there or are older
+Task sixteen
+script that moves all files beginning with an uppercase letter to /tmp/u

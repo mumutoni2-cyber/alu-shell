@@ -68,3 +68,8 @@ Script that counts the number of directories and sub-directories in the current 
 File: `12-newest_files`
 
 Script that displays the 10 newest files in the current directory, one per line, sorted from the newest to the oldest.
+
+### Task 13
+File: `13-unique`
+
+Script that takes a list of words as input (one word per line) and prints only the words that appear exactly once, sorted, one per line.

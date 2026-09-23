@@ -32,3 +32,6 @@ Script file to set the mode of `hello` to `-rwxr-x-wx` (753).
 
 ## Task 10
 Script file to set the mode of `hello` to match the mode of `olleh`, whatever it is.
+
+## Task 11
+Script file to add execute permission to all subdirectories (not regular files) of the current directory, for owner, group, and others.

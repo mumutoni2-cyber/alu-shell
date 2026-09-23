@@ -98,3 +98,8 @@ Script that displays all the lines in the file `/etc/passwd` that do not contain
 File: `18-letteronly`
 
 Script that displays all the lines of the file `/etc/ssh/sshd_config` starting with a letter (including capital letters).
+
+### Task 19
+File: `19-AZ`
+
+Script that replaces all characters `A` and `c` from input with `Z` and `e` respectively.

@@ -48,3 +48,8 @@ Script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 File: `8-cwd_state`
 
 Script that writes the result of `ls -la` into the file `ls_cwd_content`. If the file already exists, it is overwritten; if it doesn't exist, it is created.
+
+### Task 9
+File: `9-duplicate_last_line`
+
+Script that duplicates the last line of the file `iacta`.

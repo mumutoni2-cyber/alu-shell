@@ -63,3 +63,8 @@ Script that deletes all the regular files (not the directories) with a `.js` ext
 File: `11-directories`
 
 Script that counts the number of directories and sub-directories in the current directory. The current and parent directories are not counted, and hidden directories are included.
+
+### Task 12
+File: `12-newest_files`
+
+Script that displays the 10 newest files in the current directory, one per line, sorted from the newest to the oldest.

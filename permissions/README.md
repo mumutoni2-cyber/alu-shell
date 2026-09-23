@@ -17,3 +17,6 @@ Script file to create an empty file called `hello`.
 
 ## Task 5
 Script file to add execute permission to the owner of the file `hello`.
+
+## Task 6
+Script file to add execute permission to the owner and group, and read permission to others, to the file `hello`.

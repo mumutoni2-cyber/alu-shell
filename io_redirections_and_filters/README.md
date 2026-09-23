@@ -103,3 +103,8 @@ Script that displays all the lines of the file `/etc/ssh/sshd_config` starting w
 File: `19-AZ`
 
 Script that replaces all characters `A` and `c` from input with `Z` and `e` respectively.
+
+### Task 20
+File: `20-hiago`
+
+Script that removes all letters `c` and `C` from input.

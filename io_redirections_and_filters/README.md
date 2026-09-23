@@ -123,3 +123,8 @@ Script that displays all users and their home directories, sorted by users, base
 File: `23-empty_casks`
 
 Command that finds all empty files and directories in the current directory and all sub-directories. Only names are displayed (not full paths), hidden files are listed, one name per line.
+
+### Task 24
+File: `24-gifs`
+
+Script that lists all the files with a `.gif` extension in the current directory and all its sub-directories. Hidden files are listed, only regular files are shown, names are displayed without extension, sorted by byte value but case-insensitively, one per line.

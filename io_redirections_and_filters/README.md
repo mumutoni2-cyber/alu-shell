@@ -128,3 +128,8 @@ Command that finds all empty files and directories in the current directory and 
 File: `24-gifs`
 
 Script that lists all the files with a `.gif` extension in the current directory and all its sub-directories. Hidden files are listed, only regular files are shown, names are displayed without extension, sorted by byte value but case-insensitively, one per line.
+
+### Task 25
+File: `25-acrostic`
+
+Script that decodes acrostics that use the first letter of each line. The decoded message ends with a new line.

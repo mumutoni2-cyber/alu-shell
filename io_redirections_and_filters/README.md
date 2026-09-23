@@ -18,3 +18,8 @@ Script that displays a confused smiley: `"(Ôo)'`.
 File: `2-hellofile`
 
 Script that displays the content of the `/etc/passwd` file.
+
+### Task 3
+File: `3-twofiles`
+
+Script that displays the content of `/etc/passwd` and `/etc/hosts`.

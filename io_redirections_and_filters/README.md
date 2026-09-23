@@ -13,3 +13,8 @@ Script that prints "Hello, World", followed by a new line, to the standard outpu
 File: `1-confused_smiley`
 
 Script that displays a confused smiley: `"(Ôo)'`.
+
+### Task 2
+File: `2-hellofile`
+
+Script that displays the content of the `/etc/passwd` file.

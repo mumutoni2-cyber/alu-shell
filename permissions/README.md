@@ -35,3 +35,6 @@ Script file to set the mode of `hello` to match the mode of `olleh`, whatever it
 
 ## Task 11
 Script file to add execute permission to all subdirectories (not regular files) of the current directory, for owner, group, and others.
+
+## Task 12
+Script file to create a directory called `my_dir` with permissions 751 in the working directory.

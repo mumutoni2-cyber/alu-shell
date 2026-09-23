@@ -78,3 +78,8 @@ Script that takes a list of words as input (one word per line) and prints only t
 File: `14-findthatword`
 
 Script that displays lines containing the pattern "root" from the file `/etc/passwd`.
+
+### Task 15
+File: `15-countthatword`
+
+Script that displays the number of lines that contain the pattern "bin" in the file `/etc/passwd`.

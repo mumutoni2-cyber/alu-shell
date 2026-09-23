@@ -133,3 +133,8 @@ Script that lists all the files with a `.gif` extension in the current directory
 File: `25-acrostic`
 
 Script that decodes acrostics that use the first letter of each line. The decoded message ends with a new line.
+
+### Task 26
+File: `26-the_biggest_fan`
+
+Script that parses web server logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests, ordered by number of requests (most active first).

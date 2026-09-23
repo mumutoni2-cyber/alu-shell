@@ -41,3 +41,6 @@ Script file to create a directory called `my_dir` with permissions 751 in the wo
 
 ## Task 13
 Script file to change the group owner of `hello` to `school`.
+
+## Task 14
+Script file to change the owner to `vincent` and group owner to `staff` for all files and directories in the working directory.

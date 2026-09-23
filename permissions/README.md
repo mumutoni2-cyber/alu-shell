@@ -29,3 +29,6 @@ Script file to set permissions on `hello`: no permission for owner and group, fu
 
 ## Task 9
 Script file to set the mode of `hello` to `-rwxr-x-wx` (753).
+
+## Task 10
+Script file to set the mode of `hello` to match the mode of `olleh`, whatever it is.

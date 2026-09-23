@@ -93,3 +93,8 @@ Script that displays lines containing the pattern "root" and 3 lines after them 
 File: `17-hidethisword`
 
 Script that displays all the lines in the file `/etc/passwd` that do not contain the pattern "bin".
+
+### Task 18
+File: `18-letteronly`
+
+Script that displays all the lines of the file `/etc/ssh/sshd_config` starting with a letter (including capital letters).

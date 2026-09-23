@@ -118,3 +118,8 @@ Script that reverses its input.
 File: `22-users_and_homes`
 
 Script that displays all users and their home directories, sorted by users, based on the `/etc/passwd` file.
+
+### Task 23
+File: `23-empty_casks`
+
+Command that finds all empty files and directories in the current directory and all sub-directories. Only names are displayed (not full paths), hidden files are listed, one name per line.

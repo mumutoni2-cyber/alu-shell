@@ -11,3 +11,6 @@ Script file to print all the groups the current user is part of.
 
 ## Task 3
 Script file to change the owner of the file `hello` to the user `betty`.
+
+## Task 4
+Script file to create an empty file called `hello`.

@@ -43,3 +43,8 @@ Script that displays the third line of the file `iacta`, without using `sed`.
 File: `7-file`
 
 Script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` followed by a new line.
+
+### Task 8
+File: `8-cwd_state`
+
+Script that writes the result of `ls -la` into the file `ls_cwd_content`. If the file already exists, it is overwritten; if it doesn't exist, it is created.

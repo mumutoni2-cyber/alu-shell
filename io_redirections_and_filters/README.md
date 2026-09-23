@@ -23,3 +23,8 @@ Script that displays the content of the `/etc/passwd` file.
 File: `3-twofiles`
 
 Script that displays the content of `/etc/passwd` and `/etc/hosts`.
+
+### Task 4
+File: `4-lastlines`
+
+Script that displays the last 10 lines of `/etc/passwd`.

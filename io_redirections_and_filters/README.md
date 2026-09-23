@@ -73,3 +73,8 @@ Script that displays the 10 newest files in the current directory, one per line,
 File: `13-unique`
 
 Script that takes a list of words as input (one word per line) and prints only the words that appear exactly once, sorted, one per line.
+
+### Task 14
+File: `14-findthatword`
+
+Script that displays lines containing the pattern "root" from the file `/etc/passwd`.

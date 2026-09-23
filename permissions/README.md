@@ -38,3 +38,6 @@ Script file to add execute permission to all subdirectories (not regular files) 
 
 ## Task 12
 Script file to create a directory called `my_dir` with permissions 751 in the working directory.
+
+## Task 13
+Script file to change the group owner of `hello` to `school`.

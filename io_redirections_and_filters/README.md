@@ -33,3 +33,8 @@ Script that displays the last 10 lines of `/etc/passwd`.
 File: `5-firstlines`
 
 Script that displays the first 10 lines of `/etc/passwd`.
+
+### Task 6
+File: `6-third_line`
+
+Script that displays the third line of the file `iacta`, without using `sed`.

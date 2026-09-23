@@ -88,3 +88,8 @@ Script that displays the number of lines that contain the pattern "bin" in the f
 File: `16-whatsnext`
 
 Script that displays lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`.
+
+### Task 17
+File: `17-hidethisword`
+
+Script that displays all the lines in the file `/etc/passwd` that do not contain the pattern "bin".

@@ -26,3 +26,6 @@ Script file to add execute permission to the owner, group, and others, to the fi
 
 ## Task 8
 Script file to set permissions on `hello`: no permission for owner and group, full permission for others.
+
+## Task 9
+Script file to set the mode of `hello` to `-rwxr-x-wx` (753).

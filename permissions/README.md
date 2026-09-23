@@ -44,3 +44,6 @@ Script file to change the group owner of `hello` to `school`.
 
 ## Task 14
 Script file to change the owner to `vincent` and group owner to `staff` for all files and directories in the working directory.
+
+## Task 15
+Script file to change the owner and group owner of the symbolic link `_hello` to `vincent` and `staff` respectively (without affecting the target file).

@@ -47,3 +47,6 @@ Script file to change the owner to `vincent` and group owner to `staff` for all 
 
 ## Task 15
 Script file to change the owner and group owner of the symbolic link `_hello` to `vincent` and `staff` respectively (without affecting the target file).
+
+## Task 16
+Script file to change the owner of `hello` to `vincent`, only if it is currently owned by `guillaume`.

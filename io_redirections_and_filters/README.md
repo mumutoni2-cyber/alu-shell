@@ -108,3 +108,8 @@ Script that replaces all characters `A` and `c` from input with `Z` and `e` resp
 File: `20-hiago`
 
 Script that removes all letters `c` and `C` from input.
+
+### Task 21
+File: `21-reverse`
+
+Script that reverses its input.

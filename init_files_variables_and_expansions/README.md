@@ -34,3 +34,12 @@ File: `3-paths`
 Create a script that lists environment variables.
 
 File: `4-global_variables`
+
+## Task 6. Create a local variable
+
+Create a script that creates a new local variable.
+
+- Name: `BEST`
+- Value: `School`
+
+File: `6-create_local_variable`

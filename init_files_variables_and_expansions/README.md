@@ -28,3 +28,9 @@ File: `2-path`
 Create a script that counts the number of directories in the `PATH`.
 
 File: `3-paths`
+
+## Task 4. Global variables
+
+Create a script that lists environment variables.
+
+File: `4-global_variables`

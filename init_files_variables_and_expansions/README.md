@@ -78,3 +78,10 @@ Create a script that creates a new global variable.
 - Value: `School`
 
 File: `7-create_global_variable`
+
+## Task 5. Local variables
+
+Create a script that lists all local variables, environment variables,
+and functions.
+
+File: `5-local_variables`

@@ -14,3 +14,11 @@ in the current directory. Running `\ls` (or `command ls`) bypasses the
 alias and calls the real `ls` binary instead.
 
 File: `0-alias`
+
+## Task 2. Best friend
+
+Add `/action` to the `PATH`.
+
+`/action` should be the last directory the shell looks into when looking for a program.
+
+File: `2-path`

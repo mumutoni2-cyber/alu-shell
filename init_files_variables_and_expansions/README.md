@@ -69,3 +69,12 @@ Write a script that displays the result of `BREATH` to the power `LOVE`.
 - The script should display the result, followed by a new line
 
 File: `10-love_exponent_breath`
+
+## Task 7. Create a global variable
+
+Create a script that creates a new global variable.
+
+- Name: `BEST`
+- Value: `School`
+
+File: `7-create_global_variable`

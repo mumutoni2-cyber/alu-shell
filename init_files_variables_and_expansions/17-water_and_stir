@@ -1,0 +1,42 @@
+#!/bin/bash
+
+water="water"
+stir="stir."
+bestchol="bestchol"
+
+to_decimal() {
+    local base_word="$1"
+    local number="$2"
+    local base_len=${#base_word}
+    local decimal=0
+    local i char pos
+    for (( i=0; i<${#number}; i++ )); do
+        char="${number:$i:1}"
+        pos=$(( $(expr index "$base_word" "$char") - 1 ))
+        decimal=$(( decimal * base_len + pos ))
+    done
+    echo "$decimal"
+}
+
+to_base() {
+    local base_word="$1"
+    local decimal="$2"
+    local base_len=${#base_word}
+    local result=""
+    local remainder
+    if [ "$decimal" -eq 0 ]; then
+        echo "${base_word:0:1}"
+        return
+    fi
+    while [ "$decimal" -gt 0 ]; do
+        remainder=$(( decimal % base_len ))
+        result="${base_word:$remainder:1}$result"
+        decimal=$(( decimal / base_len ))
+    done
+    echo "$result"
+}
+
+water_decimal=$(to_decimal "$water" "$WATER")
+stir_decimal=$(to_decimal "$stir" "$STIR")
+sum=$(( water_decimal + stir_decimal ))
+to_base "$bestchol" "$sum"

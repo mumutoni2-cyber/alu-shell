@@ -94,3 +94,16 @@ Write a script that converts a number from base 2 to base 10.
 - The script should display the number in base 10, followed by a new line
 
 File: `11-binary_to_decimal`
+
+## Task 12. Combinations
+
+Create a script that prints all possible combinations of two letters,
+except `oo`.
+
+- Letters are lower cases, from `a` to `z`
+- One combination per line
+- The output should be alpha ordered, starting with `aa`
+- Do not print `oo`
+- Your script file should contain maximum 64 characters
+
+File: `12-combinations`

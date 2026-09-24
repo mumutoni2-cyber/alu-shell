@@ -51,3 +51,12 @@ value stored in the environment variable `TRUEKNOWLEDGE`, followed by a
 new line.
 
 File: `8-true_knowledge`
+
+## Task 9. Divide and rule
+
+Write a script that prints the result of `POWER` divided by `DIVIDE`,
+followed by a new line.
+
+- `POWER` and `DIVIDE` are environment variables
+
+File: `9-divide_and_rule`

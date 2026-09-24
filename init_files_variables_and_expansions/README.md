@@ -124,3 +124,10 @@ Write a script that converts a number from base 10 to base 16.
 - The script should display the number in base 16, followed by a new line
 
 File: `14-decimal_to_hexadecimal`
+
+## Task 15. Rot13
+
+Write a script that encodes and decodes text using the rot13
+encryption. Assume ASCII.
+
+File: `15-rot13`

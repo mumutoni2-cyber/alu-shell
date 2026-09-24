@@ -85,3 +85,12 @@ Create a script that lists all local variables, environment variables,
 and functions.
 
 File: `5-local_variables`
+
+## Task 11. Binary to decimal
+
+Write a script that converts a number from base 2 to base 10.
+
+- The number in base 2 is stored in the environment variable `BINARY`
+- The script should display the number in base 10, followed by a new line
+
+File: `11-binary_to_decimal`

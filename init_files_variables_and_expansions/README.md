@@ -43,3 +43,11 @@ Create a script that creates a new local variable.
 - Value: `School`
 
 File: `6-create_local_variable`
+
+## Task 8. Unique
+
+Write a script that prints the result of the addition of 128 with the
+value stored in the environment variable `TRUEKNOWLEDGE`, followed by a
+new line.
+
+File: `8-true_knowledge`

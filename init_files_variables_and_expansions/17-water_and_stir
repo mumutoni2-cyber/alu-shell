@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'BEGIN{water="water";stir="stir.";best="bestchol";wd=0;w=ENVIRON["WATER"];for(i=1;i<=length(w);i++){wd=wd*5+index(water,substr(w,i,1))-1};sd=0;s=ENVIRON["STIR"];for(i=1;i<=length(s);i++){sd=sd*5+index(stir,substr(s,i,1))-1};sum=wd+sd;if(sum==0){print substr(best,1,1);exit};res="";while(sum>0){r=sum%8;res=substr(best,r+1,1) res;sum=int(sum/8)};print res}'
+echo "$(printf "%o" $(( 5#$(tr 'water' '01234' <<< "$WATER") + 5#$(tr 'stir.' '01234' <<< "$STIR") )) | tr '01234567' 'bestchol')"

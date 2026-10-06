@@ -22,6 +22,7 @@ Bash scripts practicing loops, conditions, and parsing.
 | `8-for_ls` | Lists the current directory (no hidden files), showing only the part of each name after the first dash, using a `for` loop. |
 | `9-to_file_or_not_to_file` | Reports whether the `school` file exists, is empty, and is a regular file, using `if` and `else`. |
 | `10-fizzbuzz` | Displays 1 to 100, with "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for both. |
+| `11-read_and_cut` | Displays the username, user id and home directory path of each line in `/etc/passwd`, using a `while` loop and `read`. |
 
 ## Author
 

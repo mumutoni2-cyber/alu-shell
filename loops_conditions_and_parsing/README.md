@@ -20,6 +20,7 @@ Bash scripts practicing loops, conditions, and parsing.
 | `6-superstitious_numbers` | Displays 1 to 20, with "bad luck from China", "Japan" or "Italy" after 4, 9 and 17, using `while` and `case`. |
 | `7-clock` | Displays the time over 12 hours and 59 minutes (hours 0 to 12, minutes 1 to 59) using nested `while` loops. |
 | `8-for_ls` | Lists the current directory (no hidden files), showing only the part of each name after the first dash, using a `for` loop. |
+| `9-to_file_or_not_to_file` | Reports whether the `school` file exists, is empty, and is a regular file, using `if` and `else`. |
 
 ## Author
 

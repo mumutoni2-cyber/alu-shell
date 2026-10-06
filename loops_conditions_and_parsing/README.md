@@ -21,6 +21,7 @@ Bash scripts practicing loops, conditions, and parsing.
 | `7-clock` | Displays the time over 12 hours and 59 minutes (hours 0 to 12, minutes 1 to 59) using nested `while` loops. |
 | `8-for_ls` | Lists the current directory (no hidden files), showing only the part of each name after the first dash, using a `for` loop. |
 | `9-to_file_or_not_to_file` | Reports whether the `school` file exists, is empty, and is a regular file, using `if` and `else`. |
+| `10-fizzbuzz` | Displays 1 to 100, with "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for both. |
 
 ## Author
 

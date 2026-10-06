@@ -17,6 +17,7 @@ Bash scripts practicing loops, conditions, and parsing.
 | `3-until_best_school` | Displays "Best School" 10 times using an `until` loop. |
 | `4-if_9_say_hi` | Displays "Best School" 10 times, and "Hi" after the 9th, using `while` and `if`. |
 | `5-4_bad_luck_8_is_your_chance` | Loops 1 to 10: "bad luck" on the 4th, "good luck" on the 8th, "Best School" otherwise, using `while`, `if`, `elif` and `else`. |
+| `6-superstitious_numbers` | Displays 1 to 20, with "bad luck from China", "Japan" or "Italy" after 4, 9 and 17, using `while` and `case`. |
 
 ## Author
 

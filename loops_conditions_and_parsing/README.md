@@ -24,6 +24,7 @@ Bash scripts practicing loops, conditions, and parsing.
 | `10-fizzbuzz` | Displays 1 to 100, with "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for both. |
 | `11-read_and_cut` | Displays the username, user id and home directory path of each line in `/etc/passwd`, using a `while` loop and `read`. |
 | `12-tell_the_story_of_passwd` | Tells a story from each line of `/etc/passwd`, using a `while` loop and `IFS`. |
+| `13-lets_parse_apache_logs` | Displays the visitor IP and HTTP status code from `apache-access.log`, using `awk`. |
 
 ## Author
 

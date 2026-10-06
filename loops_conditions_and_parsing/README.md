@@ -23,6 +23,7 @@ Bash scripts practicing loops, conditions, and parsing.
 | `9-to_file_or_not_to_file` | Reports whether the `school` file exists, is empty, and is a regular file, using `if` and `else`. |
 | `10-fizzbuzz` | Displays 1 to 100, with "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for both. |
 | `11-read_and_cut` | Displays the username, user id and home directory path of each line in `/etc/passwd`, using a `while` loop and `read`. |
+| `12-tell_the_story_of_passwd` | Tells a story from each line of `/etc/passwd`, using a `while` loop and `IFS`. |
 
 ## Author
 

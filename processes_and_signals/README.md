@@ -37,3 +37,15 @@ Requirements:
 - **Repo:** `alu-shell`
 - **Directory:** `processes_and_signals`
 - **File:** `3-show_your_bash_pid_made_easy`
+
+### 4. To infinity and beyond (mandatory)
+
+Write a Bash script that displays `To infinity and beyond` indefinitely.
+
+Requirements:
+
+- In between each iteration of the loop, add a `sleep 2`
+
+- **Repo:** `alu-shell`
+- **Directory:** `processes_and_signals`
+- **File:** `4-to_infinity_and_beyond`

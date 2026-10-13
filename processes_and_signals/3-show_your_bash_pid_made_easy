@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Displays the PID and process name of processes whose name contains the word bash (without ps)
+for comm in /proc/[0-9]*/comm; do
+{ read -r name < "$comm"; } 2>/dev/null || continue
+if [[ "$name" == *bash* ]]; then
+pid="${comm#/proc/}"
+echo "${pid%/comm} $name"
+fi
+done | sort -n

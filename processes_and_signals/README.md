@@ -25,3 +25,15 @@ Requirements:
 - **Repo:** `alu-shell`
 - **Directory:** `processes_and_signals`
 - **File:** `1-list_your_processes`
+
+### 3. Show your Bash PID made easy (mandatory)
+
+Write a Bash script that displays the PID, along with the process name, of processes whose name contains the word `bash`.
+
+Requirements:
+
+- You cannot use `ps`
+
+- **Repo:** `alu-shell`
+- **Directory:** `processes_and_signals`
+- **File:** `3-show_your_bash_pid_made_easy`

@@ -111,3 +111,13 @@ Write a Bash script that:
 - **Repo:** `alu-shell`
 - **Directory:** `processes_and_signals`
 - **File:** `10-process_and_pid_file`
+
+### 11. Manage my process (mandatory)
+
+Write a `manage_my_process` Bash script that indefinitely writes `I am alive!` to `/tmp/my_process`, pausing 2 seconds between each message.
+
+Write a Bash (init) script `11-manage_my_process` that manages it, with the arguments `start`, `stop` and `restart`, using the PID file `/var/run/my_process.pid`. Any other argument displays `Usage: manage_my_process {start|stop|restart}`.
+
+- **Repo:** `alu-shell`
+- **Directory:** `processes_and_signals`
+- **File:** `11-manage_my_process`, `manage_my_process`

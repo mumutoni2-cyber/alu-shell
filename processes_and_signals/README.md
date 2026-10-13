@@ -89,3 +89,11 @@ Make a copy of your `6-stop_me_if_you_can` script, name it `67-stop_me_if_you_ca
 - **Repo:** `alu-shell`
 - **Directory:** `processes_and_signals`
 - **File:** `7-highlander` (and `67-stop_me_if_you_can`)
+
+### 8. Beheaded process (mandatory)
+
+Write a Bash script that kills the process `7-highlander`.
+
+- **Repo:** `alu-shell`
+- **Directory:** `processes_and_signals`
+- **File:** `8-beheaded_process`

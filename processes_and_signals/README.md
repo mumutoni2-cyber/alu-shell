@@ -75,3 +75,17 @@ Requirements:
 - **Repo:** `alu-shell`
 - **Directory:** `processes_and_signals`
 - **File:** `6-stop_me_if_you_can`
+
+### 7. Highlander (mandatory)
+
+Write a Bash script that displays:
+
+- `To infinity and beyond` indefinitely
+- With a `sleep 2` in between each iteration
+- `I am invincible!!!` when receiving a `SIGTERM` signal
+
+Make a copy of your `6-stop_me_if_you_can` script, name it `67-stop_me_if_you_can`, that kills the `7-highlander` process instead of the `4-to_infinity_and_beyond` one.
+
+- **Repo:** `alu-shell`
+- **Directory:** `processes_and_signals`
+- **File:** `7-highlander` (and `67-stop_me_if_you_can`)

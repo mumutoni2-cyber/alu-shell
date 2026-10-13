@@ -63,3 +63,15 @@ Requirements:
 - **Repo:** `alu-shell`
 - **Directory:** `processes_and_signals`
 - **File:** `5-dont_stop_me_now`
+
+### 6. Stop me if you can (mandatory)
+
+Write a Bash script that stops the `4-to_infinity_and_beyond` process.
+
+Requirements:
+
+- You cannot use `kill` or `killall`
+
+- **Repo:** `alu-shell`
+- **Directory:** `processes_and_signals`
+- **File:** `6-stop_me_if_you_can`
